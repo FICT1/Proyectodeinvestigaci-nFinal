@@ -71,6 +71,52 @@ namespace Investigacion_Final
             }
             return -1;
         }
+        void InsertionSort(List <int>arr)
+        {
+            for (int i = 1; i < arr.Count; i++)
+            {
+                int key = arr[i];
+                int j = i - 1;
+                while (j >= 0 && arr[j] > key)
+                {
+                    arr[j + 1] = arr[j];
+                    j--;
+                }
+                arr[j + 1] = key;
+            }
+        }
+
+        void QuickSort(List<int> arr, int low, int high)
+        {
+            if (low < high)
+            {
+                int p = Particion(arr, low, high);
+                QuickSort(arr, low, p - 1);
+                QuickSort(arr, p + 1, high);
+            }
+        }
+
+
+        int Particion(List<int> arr, int low, int high)
+        {
+            int pivote = arr[high];
+            int i = low - 1;
+
+            for (int j = low; j < high; j++)
+            {
+                if (arr[j] <= pivote)
+                {
+                    i++;
+                    (arr[i], arr[j]) = (arr[j], arr[i]);
+                }
+            }
+
+            (arr[i + 1], arr[high]) = (arr[high], arr[i + 1]);
+            return i + 1;
+        }
+
+
+
 
         private void btnLineal_Click(object sender, EventArgs e)
         {
