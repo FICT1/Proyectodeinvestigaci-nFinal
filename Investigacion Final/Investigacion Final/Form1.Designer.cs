@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.cmbTamaño = new System.Windows.Forms.ComboBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtBuscar = new System.Windows.Forms.TextBox();
             this.lblInfo = new System.Windows.Forms.Label();
             this.lblResultado = new System.Windows.Forms.Label();
             this.btnGenerar = new System.Windows.Forms.Button();
@@ -52,12 +52,12 @@
             this.cmbTamaño.Size = new System.Drawing.Size(184, 24);
             this.cmbTamaño.TabIndex = 0;
             // 
-            // textBox1
+            // txtBuscar
             // 
-            this.textBox1.Location = new System.Drawing.Point(35, 102);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(180, 22);
-            this.textBox1.TabIndex = 1;
+            this.txtBuscar.Location = new System.Drawing.Point(35, 102);
+            this.txtBuscar.Name = "txtBuscar";
+            this.txtBuscar.Size = new System.Drawing.Size(180, 22);
+            this.txtBuscar.TabIndex = 1;
             // 
             // lblInfo
             // 
@@ -83,6 +83,7 @@
             this.btnGenerar.TabIndex = 5;
             this.btnGenerar.Text = "Generar";
             this.btnGenerar.UseVisualStyleBackColor = true;
+            this.btnGenerar.Click += new System.EventHandler(this.btnGenerar_Click);
             // 
             // btnLineal
             // 
@@ -177,7 +178,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnGenerar);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtBuscar);
             this.Controls.Add(this.cmbTamaño);
             this.Controls.Add(this.btnQuick);
             this.Controls.Add(this.btnInsertion);
@@ -196,7 +197,7 @@
         #endregion
 
         private System.Windows.Forms.ComboBox cmbTamaño;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Label lblInfo;
         private System.Windows.Forms.Label lblResultado;
         private System.Windows.Forms.Button btnGenerar;

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\isaqu\\OneDrive\\Desktop\\Universidad\\IntProGram\\Tareas\\ProyectoUltimoCorte\\Investigacion Final\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85A64C05-47DC-464F-A5F5-F5F1A9E30E72}|Investigacion Final\\Investigacion Final.csproj|c:\\users\\isaqu\\onedrive\\desktop\\universidad\\intprogram\\tareas\\proyectoultimocorte\\investigacion final\\investigacion final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A64C05-47DC-464F-A5F5-F5F1A9E30E72}|Investigacion Final\\Investigacion Final.csproj|solutionrelative:investigacion final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85A64C05-47DC-464F-A5F5-F5F1A9E30E72}|Investigacion Final\\Investigacion Final.csproj|c:\\users\\isaqu\\onedrive\\desktop\\universidad\\intprogram\\tareas\\proyectoultimocorte\\investigacion final\\investigacion final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{85A64C05-47DC-464F-A5F5-F5F1A9E30E72}|Investigacion Final\\Investigacion Final.csproj|solutionrelative:investigacion final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\isaqu\\OneDrive\\Desktop\\Universidad\\IntProGram\\Tareas\\ProyectoUltimoCorte\\Investigacion Final\\Investigacion Final\\Form1.cs",
+              "RelativeDocumentMoniker": "Investigacion Final\\Form1.cs",
+              "ToolTip": "C:\\Users\\isaqu\\OneDrive\\Desktop\\Universidad\\IntProGram\\Tareas\\ProyectoUltimoCorte\\Investigacion Final\\Investigacion Final\\Form1.cs",
+              "RelativeToolTip": "Investigacion Final\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T05:16:05.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\isaqu\\OneDrive\\Desktop\\Universidad\\IntProGram\\Tareas\\ProyectoUltimoCorte\\Investigacion Final\\Investigacion Final\\Form1.cs",
               "RelativeDocumentMoniker": "Investigacion Final\\Form1.cs",
