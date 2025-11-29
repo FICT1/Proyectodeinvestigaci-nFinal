@@ -131,5 +131,20 @@ namespace Investigacion_Final
             sw.Stop();
             lblResultado.Text = $"Lineal → Posición: {index} | Tiempo: {sw.ElapsedMilliseconds} ms";
         }
+
+        private void btnQuick_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnBinaria_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnInsertion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

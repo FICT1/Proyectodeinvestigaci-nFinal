@@ -103,6 +103,7 @@
             this.btnBinaria.TabIndex = 7;
             this.btnBinaria.Text = "Binaria";
             this.btnBinaria.UseVisualStyleBackColor = true;
+            this.btnBinaria.Click += new System.EventHandler(this.btnBinaria_Click);
             // 
             // btnInsertion
             // 
@@ -112,6 +113,7 @@
             this.btnInsertion.TabIndex = 8;
             this.btnInsertion.Text = "Insertion ";
             this.btnInsertion.UseVisualStyleBackColor = true;
+            this.btnInsertion.Click += new System.EventHandler(this.btnInsertion_Click);
             // 
             // btnQuick
             // 
@@ -121,6 +123,7 @@
             this.btnQuick.TabIndex = 9;
             this.btnQuick.Text = "Quick";
             this.btnQuick.UseVisualStyleBackColor = true;
+            this.btnQuick.Click += new System.EventHandler(this.btnQuick_Click);
             // 
             // label2
             // 
