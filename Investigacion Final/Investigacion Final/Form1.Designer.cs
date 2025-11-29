@@ -1,6 +1,6 @@
 ﻿namespace Investigacion_Final
 {
-    partial class Form1
+    partial class FranklinC
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -93,6 +93,7 @@
             this.btnLineal.TabIndex = 6;
             this.btnLineal.Text = "Lineal";
             this.btnLineal.UseVisualStyleBackColor = true;
+            this.btnLineal.Click += new System.EventHandler(this.btnLineal_Click);
             // 
             // btnBinaria
             // 
@@ -163,15 +164,16 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(250, 310);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(109, 25);
+            this.label5.Size = new System.Drawing.Size(129, 25);
             this.label5.TabIndex = 15;
             this.label5.Text = "Informacion";
             // 
-            // Form1
+            // FranklinC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(605, 401);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(608, 416);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -186,9 +188,10 @@
             this.Controls.Add(this.btnLineal);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.lblInfo);
-            this.Name = "Form1";
+            this.Name = "FranklinC";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "`";
+            this.Text = "Franklin Callejas";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

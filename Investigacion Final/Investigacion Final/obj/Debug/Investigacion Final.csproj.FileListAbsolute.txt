@@ -2,9 +2,10 @@ C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCort
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\bin\Debug\Investigacion Final.exe
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\bin\Debug\Investigacion Final.pdb
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion Final.csproj.AssemblyReference.cache
-C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion_Final.Form1.resources
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion_Final.Properties.Resources.resources
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion Final.csproj.GenerateResource.cache
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion Final.csproj.CoreCompileInputs.cache
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion Final.exe
 C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion Final.pdb
+C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion Final.exe.config
+C:\Users\isaqu\OneDrive\Desktop\Universidad\IntProGram\Tareas\ProyectoUltimoCorte\Investigacion Final\Investigacion Final\obj\Debug\Investigacion_Final.FranklinC.resources
